@@ -1,0 +1,151 @@
+@import url(./abc.css);
+
+span select {
+    border: 0px;
+}
+span button {
+    background-color: brown;
+    color: aliceblue;
+    border: 0px;
+    border-radius: 8px;
+    width: 110px;
+    height: 24px;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+    
+}
+#select1 {
+   position: relative;
+   left: 100px;
+}
+#select2 {
+    position: relative;
+    left: 150px;
+    
+ }
+ #select3 {
+    position: relative;
+    left: 220px;
+ }
+ #select4 {
+    position: relative;
+    left: 290px;
+ }
+ #select5 {
+    position: relative;
+    left: 350px;
+ }
+ #select6 {
+    position: relative;
+    right: 40px;
+    
+ }
+ #select7 {
+    position: relative;
+    right: 20px;
+ }
+ #head {
+    font-weight: bolder;
+    font-size: larger;
+    position: relative;
+    left: 30px;
+ }
+ .img1{
+    display: flex;
+    justify-content: space-around;
+   
+ }
+ .img2{
+    float: left;
+    margin-left: 70px;
+    margin-top: 20px;
+ }
+ .img3{
+    float: right;
+    margin-right: 50px;
+ }
+ .img4{
+    float: left;
+    margin-left: 70px;
+    margin-top: 30px;
+ }
+ .img5{
+    float: right;
+    margin-right: 50px;
+ }
+ .img6{
+    float: left;
+    margin-left: 70px;
+    margin-top: 40px;
+ }
+ .img7{
+    float: right;
+    margin-right: 50px;
+ }
+ .img8{
+    float: left;
+    margin-left: 70px;
+    margin-top: 40px;
+ }
+ .img9{
+    float: right;
+    margin-right: 50px;
+ }
+ .built{
+    position: absolute;
+    top: 2300px;
+    left: 110px;
+ }
+ .built2{
+    position: absolute;
+    top: 2290px;
+    right: 100px;
+ }
+ .select8{
+    background-color: brown;
+    color: aliceblue;
+    border: 0px;
+    border-radius: 8px;
+    width: 110px;
+    height: 24px;
+ }
+ .img12{
+   position: relative;
+   top: 400px;
+   left: 600px;
+ }
+ .img13{
+    position: relative;
+    top: 90px;
+    left: 100px;
+  }
+  .last{
+    position: relative;
+    left: 150px;
+    top: 120px;
+  }
+  .last1{
+    position: relative;
+    left: 170px;
+    top: 120px;
+  }
+  .last2{
+    position: relative;
+    left: 10px;
+    top: 190px;
+  }
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 200px;
+  }
+  footer ul{
+    list-style-type: none;
+  }
+
+
